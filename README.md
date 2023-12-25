@@ -55,6 +55,6 @@ Canvas: no hard limit
 
 > TODO
 
-### Color Palette
+### Color Palette & Theme
 
 > TODO -- waiting on theme announcement from itch.io
