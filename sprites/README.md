@@ -20,7 +20,7 @@ Please try to adhere to the directory structure below. You can also see `./_exam
 
 - Naming can be whatever makes sense for the sprite, perhaps taking into account the directory context
 - `.png` / `.PNG` formats only
-- If sprite is an animation, please use a sprite sheet (no `.gif`)
+- If sprite is an animation, please use a sprite sheet (no `.gif` for development work. See below for uploading `.gif`)
 
 ## Sprite Animation Preview
 
