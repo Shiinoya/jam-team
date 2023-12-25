@@ -4,10 +4,10 @@ This README pertains to the January 2024 Boss Rush Jam ([itch.io announcement](h
 
 #### Current members
 
-Brett
-Zeamech
-zymkee
-Shiinoya
+- Brett
+- Zeamech
+- zymkee
+- Shiinoya
 
 ---
 
