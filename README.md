@@ -4,20 +4,24 @@ This README pertains to the January 2024 Boss Rush Jam ([itch.io announcement](h
 
 #### Current members
 
-Brett
-Zeamech
-zymkee
-Shiinoya
+- Brett
+- Zeamech
+- zymkee
+- Shiinoya
 
 ---
 
 ## Pixel Art
 
-Below is the agreed upon characteristics of the pixel art displayed in our game.
+Below is the agreed upon characteristics of the pixel art displayed in our game. Before adding or removing things, a PR should be opened along with a discussion with the rest of the team.
+
+Since this is to be done in a month, we must find a sweet spot between looking good and making sure it is doable.
 
 ### Scene Canvas Size
 
-320 x 320 pixels **(to be confirmed)**
+> To be confirmed
+
+320 x 320 pixels
 
 > Note: This wouldn't meet 16:9 screen ratios. Consider 320 x 180.
 
@@ -25,17 +29,21 @@ Below is the agreed upon characteristics of the pixel art displayed in our game.
 
 #### Player Controller (PC) character
 
-Between 24px-32px tall **(to be confirmed)**
+> To be confirmed
+
+Height: Between 24px-32px
+Canvas: 32px-64px
 
 > Note: Depending on the animation, the canvas may need to be 64px.
 
 #### Non Player Controller Characters (NPCs)
 
-> TODO -- will we have any?
+> TODO -- will we have any? only bosses are required for the jam
 
 #### Bosses
 
-4x-6x the player height.
+Height: 4x-6x PC's height
+Canvas: no hard limit
 
 > Note: Will have to keep in mind that animations will most likely increase the size of the sprite canvas.
 
@@ -47,6 +55,6 @@ Between 24px-32px tall **(to be confirmed)**
 
 > TODO
 
-### Color Palette
+### Color Palette & Theme
 
 > TODO -- waiting on theme announcement from itch.io
