@@ -1,6 +1,6 @@
 # Scene Uploading
 
-Please make sure that the scene you are uploading meetings the required guidelines in the main README.
+Please make sure that the scene you are uploading meets the required guidelines in the main README.
 
 ## PR
 

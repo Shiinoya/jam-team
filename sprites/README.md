@@ -1,6 +1,6 @@
 # Sprite Uploading
 
-Please make sure that the sprite you are uploading meetings the required guidelines in the main README.
+Please make sure that the sprite you are uploading meets the required guidelines in the main README.
 
 ## PR
 
