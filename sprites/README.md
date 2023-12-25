@@ -21,3 +21,7 @@ Please try to adhere to the directory structure below. You can also see `./_exam
 - Naming can be whatever makes sense for the sprite, perhaps taking into account the directory context
 - `.png` / `.PNG` formats only
 - If sprite is an animation, please use a sprite sheet (no `.gif`)
+
+## Sprite Animation Preview
+
+If you'd like to upload a preview of an animation, go ahead and upload the `.gif` to the same directory you are uploading your sprite sheet to.
