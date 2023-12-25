@@ -23,7 +23,7 @@ Since this is to be done in a month, we must find a sweet spot between looking g
 
 #### If you would like to upload some art..
 
-Please follow guidelines inside the respective art folder (eg. `/sprites`). There will be a README.md file with some annoying instructions :)
+Please follow guidelines inside the respective art folder (eg. `/sprites`). There will be a README file with some annoying instructions :)
 
 ### Scene Canvas Size
 
