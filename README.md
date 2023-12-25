@@ -1,4 +1,8 @@
-# Welcome to Jam-Team!!
+# Welcome to Jam Team!!
+
+<div align="center">
+    <img src="./static/logo-jam-team.gif" width=300 alt="Jam Team logo" />
+</div>
 
 This README pertains to the January 2024 Boss Rush Jam ([itch.io announcement](https://itch.io/jam/boss-rush-jam-2024#:~:text=You%20have%20one%20month%20to,as%20many%20bosses%20as%20possible.))
 
