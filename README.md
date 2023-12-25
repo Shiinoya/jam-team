@@ -19,7 +19,7 @@ Below is the agreed upon characteristics of the pixel art displayed in our game.
 
 320 x 320 pixels **(to be confirmed)**
 
-> Note: This wouldn't meet 16:9 screen ratios.
+> Note: This wouldn't meet 16:9 screen ratios. Consider 320 x 180.
 
 ### Sprite Size
 
