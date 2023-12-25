@@ -13,7 +13,9 @@ This README pertains to the January 2024 Boss Rush Jam ([itch.io announcement](h
 
 ## Pixel Art
 
-Below is the agreed upon characteristics of the pixel art displayed in our game.
+Below is the agreed upon characteristics of the pixel art displayed in our game. Before adding or removing things, a PR should be opened along with a discussion with the rest of the team.
+
+Since this is to be done in a month, we must find a sweet spot between looking good and making sure it is doable.
 
 ### Scene Canvas Size
 
