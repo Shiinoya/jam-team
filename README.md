@@ -31,8 +31,8 @@ Since this is to be done in a month, we must find a sweet spot between looking g
 
 > To be confirmed
 
-Height: Between 24px-32px
-Canvas: 32px-64px
+- Height: Between 24px-32px
+- Canvas: 32px-64px
 
 > Note: Depending on the animation, the canvas may need to be 64px.
 
@@ -42,8 +42,8 @@ Canvas: 32px-64px
 
 #### Bosses
 
-Height: 4x-6x PC's height
-Canvas: no hard limit
+- Height: 4x-6x PC's height
+- Canvas: no hard limit
 
 > Note: Will have to keep in mind that animations will most likely increase the size of the sprite canvas.
 
