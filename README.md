@@ -19,7 +19,9 @@ Since this is to be done in a month, we must find a sweet spot between looking g
 
 ### Scene Canvas Size
 
-320 x 320 pixels **(to be confirmed)**
+> To be confirmed
+
+320 x 320 pixels
 
 > Note: This wouldn't meet 16:9 screen ratios. Consider 320 x 180.
 
@@ -27,17 +29,21 @@ Since this is to be done in a month, we must find a sweet spot between looking g
 
 #### Player Controller (PC) character
 
-Between 24px-32px tall **(to be confirmed)**
+> To be confirmed
+
+Height: Between 24px-32px
+Canvas: 32px-64px
 
 > Note: Depending on the animation, the canvas may need to be 64px.
 
 #### Non Player Controller Characters (NPCs)
 
-> TODO -- will we have any?
+> TODO -- will we have any? only bosses are required for the jam
 
 #### Bosses
 
-4x-6x the player height.
+Height: 4x-6x PC's height
+Canvas: no hard limit
 
 > Note: Will have to keep in mind that animations will most likely increase the size of the sprite canvas.
 
