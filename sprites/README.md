@@ -10,7 +10,7 @@ Please make a PR to make sure the sprite meets requirements and that the team ha
 
 ## Directory Structure
 
-Please try to adhere to the directory structure below. You can also see `/_example_PC_ninja` as a reference.
+Please try to adhere to the directory structure below. You can also see `./_example_PC_ninja` as a reference.
 
 1. `/sprites/` (this directory)
 2. `/role_name of sprite/` (eg. PC_ninja, NPC_trader, BOSS_spider)
