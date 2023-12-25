@@ -1,6 +1,6 @@
 # Welcome to Jam Team!!
 
-<div align="center">
+<div align="center" style="background-color:#636363">
     <img src="./static/logo-jam-team.gif" width=300 alt="Jam Team logo" />
 </div>
 
